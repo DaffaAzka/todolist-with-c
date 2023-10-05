@@ -3,7 +3,6 @@ D:\Programming\2023\C#\Console\todolist\todolist\bin\Debug\net6.0\todolist.deps.
 D:\Programming\2023\C#\Console\todolist\todolist\bin\Debug\net6.0\todolist.runtimeconfig.json
 D:\Programming\2023\C#\Console\todolist\todolist\bin\Debug\net6.0\todolist.dll
 D:\Programming\2023\C#\Console\todolist\todolist\bin\Debug\net6.0\todolist.pdb
-D:\Programming\2023\C#\Console\todolist\todolist\obj\Debug\net6.0\todolist.csproj.AssemblyReference.cache
 D:\Programming\2023\C#\Console\todolist\todolist\obj\Debug\net6.0\todolist.GeneratedMSBuildEditorConfig.editorconfig
 D:\Programming\2023\C#\Console\todolist\todolist\obj\Debug\net6.0\todolist.AssemblyInfoInputs.cache
 D:\Programming\2023\C#\Console\todolist\todolist\obj\Debug\net6.0\todolist.AssemblyInfo.cs
